@@ -13,17 +13,24 @@ export const WrapperInfoUser = styled.div`
   margin-left: 8px;
   height: 200px;
 
+  color: #a2a4a5;
+
   h1 {
+    color: #ff9900;
     font-size: 32px;
     font-weight: bold;
   }
 
   h3 {
+    color: #c9d1d9;
+
     font-size: 18px;
     font-weight: bold;
   }
 
   h4 {
+    color: #c9d1d9;
+
     font-size: 16px;
     font-weight: bold;
   }
@@ -49,7 +56,8 @@ export const WrapperUserGeneric = styled.div`
 
   a {
     font-size: 18px;
-    color: blue;
+    color: #ff9900;
+    text-decoration: underline;
     font-weight: bold;
   }
 `;

@@ -5,6 +5,8 @@ export const Wrapper = styled.div`
   width: 100%;
   justify-content: space-between;
   padding: 4px;
+  margin-bottom: 2rem;
+
   input {
     color: #f1f1f1;
     background-color: #090b0f;
