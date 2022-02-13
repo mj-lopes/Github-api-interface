@@ -2,7 +2,13 @@ import styled from "styled-components";
 
 export const Wrapper = styled.div`
   display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
   align-items: flex-start;
+
+  @media screen and (max-width: 600px) {
+    justify-content: center;
+  }
 `;
 
 export const WrapperInfoUser = styled.div`

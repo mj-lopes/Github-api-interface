@@ -1,5 +1,5 @@
 import styled from "styled-components";
 
 export const WrapperLayout = styled.section`
-  margin: 2rem;
+  margin: clamp(1rem, 2vw, 2rem);
 `;
