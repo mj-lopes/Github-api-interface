@@ -36,6 +36,7 @@ const Repositories = () => {
                   name={item.name}
                   linkToRepo={item.full_name}
                   fullName={item.full_name}
+                  description={item.description}
                 />
               ))}
             </S.WrapperList>
