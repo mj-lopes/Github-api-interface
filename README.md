@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br/>Shout-out to [Matheus Benites](https://github.com/benits), for the original project idea.
 
 ## About project
 
@@ -18,7 +19,7 @@ We will create an application using the github public api.
 
 Print of the finished project.
 
-![plot](./image/snapshot-1.png)
+![plot](https://user-images.githubusercontent.com/56007721/153733726-0aebcd92-b027-4ade-86be-27d5bed6eae2.png)
 
 ### Libraries used
 
